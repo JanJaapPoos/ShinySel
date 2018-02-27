@@ -1,5 +1,4 @@
 library(shiny)
-library(deSolve)
 
 ui <- fluidPage(titlePanel("Selectivity example in shiny"),
 sidebarLayout(
